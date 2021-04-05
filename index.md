@@ -4,7 +4,7 @@
 *Hello!* My name is **Carmen** and I'm currently a second-year **Computer Science** major at UCSD. I have strong interests in the intersection between art, technology, and humanities, and I aspire to create for social good. Outside of work, I enjoy baking, drawing, and binge-watching [k-dramas](kdramas.md). 
 
 I'm a huge animal lover so here are some pictures of my favorite animals!
-![](images/cat.jpeg)
+[](images/cat.jpeg)
 ![](images/corgi.jpeg)
 ![](images/otters.jpeg)
 
