@@ -1,3 +1,5 @@
 # cse110-lab1
 Carmen's User Page
-My favorite progamming language is Java.
+https://carmenli14.github.io/cse110-lab1/
+
+My favorite programming language is Java.
